@@ -22,14 +22,15 @@ module.exports = {
         "arrow-parens": [ "error", "as-needed" ],
         "comma-dangle": [
             "error",
-            "never"
+            "always-multiline"
         ],
         "comma-style": [
             "error",
-            "first"
+            "last"
         ],
         "import/prefer-default-export": [ "off" ],
         "max-len": [ "error", 80 ],
+        "no-console": "error",
         "no-debugger": 2,
         "no-use-before-define": [ "error", "nofunc" ],
         "react/jsx-curly-spacing": [ "error", "always" ],
