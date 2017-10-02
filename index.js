@@ -18,7 +18,7 @@ module.exports = {
         "react"
     ],
     "rules": {
-        "array-bracket-spacing": [ "error", "always" ],
+        "array-bracket-spacing": [ "off" ],
         "arrow-parens": [ "error", "as-needed" ],
         "comma-dangle": [
             "error",
@@ -47,6 +47,6 @@ module.exports = {
             "error",
             "never"
         ],
-        "template-curly-spacing": [ "error", "always" ]
+        "template-curly-spacing": [ "off" ]
     }
 };
