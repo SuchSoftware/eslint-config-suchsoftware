@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-suchsoftware",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Such Software's JS lint configuration",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,6 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^5.0.1",
     "eslint-plugin-react": "^7.0.1"
-  }
+  },
+  "dependencies": {}
 }
