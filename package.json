@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-suchsoftware",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "Such Software's JS lint configuration",
   "main": "index.js",
   "scripts": {
